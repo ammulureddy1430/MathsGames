@@ -1,0 +1,23 @@
+{
+  "gameId": "count-the-fruits",
+  "worldId": 3,
+  "title": "Count the Fruits",
+  "skill": "Counting",
+  "difficulty": 1,
+  "rounds": [
+    {
+      "prompt": "How many apples?",
+      "display": "🍎 🍎 🍎",
+      "options": [2, 3, 4, 5],
+      "answer": 3,
+      "hint": "Touch each apple as you count."
+    },
+    {
+      "prompt": "How many bananas?",
+      "display": "🍌 🍌 🍌 🍌",
+      "options": [3, 4, 5, 6],
+      "answer": 4,
+      "hint": "Count slowly from one."
+    }
+  ]
+}
